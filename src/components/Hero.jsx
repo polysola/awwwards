@@ -151,15 +151,16 @@ const Hero = () => {
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-              Enter the Metagame Layer <br /> Unleash the Play Economy
+              Enter the Metagame Layer <br /> Unleash the Play Economy on XRPL
             </p>
 
-            <Button
+            <a href="https://t.me/EtraniumXRP_Portal" target="_blank" rel="noopener noreferrer">   <Button
               id="watch-trailer"
-              title="Watch trailer"
+              title="Telegram"
               leftIcon={<TiLocationArrow />}
               containerClass="bg-yellow-300 flex-center gap-1"
-            />
+            /></a>
+
           </div>
         </div>
       </div>

@@ -73,12 +73,12 @@ const NavBar = () => {
           <div className="flex items-center gap-7">
             <img src="/img/logo.png" alt="logo" className="w-10" />
 
-            <Button
+            <a href="https://firstledger.net/?__cf_chl_rt_tk=DQgPJqzqMfF9yrbl5.uWdKdKR_dHxhaIJShaCLOFZW0-1736178817-1.0.1.1-OrEMLxlDNQ3ROqw0VUB1d7HPoDtCxF2qUX.haxBz6aU" target="_blank" rel="noopener noreferrer">  <Button
               id="product-button"
-              title="Products"
+              title="Buy Now"
               rightIcon={<TiLocationArrow />}
               containerClass="bg-blue-50 md:flex hidden items-center justify-center gap-1"
-            />
+            /></a>
           </div>
 
           {/* Navigation Links and Audio Button */}
