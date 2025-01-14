@@ -151,10 +151,10 @@ const Hero = () => {
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-              Enter the Metagame Layer <br /> Unleash the Play Economy on XRPL
+              Elevate Your Gaming Reality <br /> The Future of Gaming Lives on XRPL
             </p>
 
-            <a href="https://t.me/EtraniumXRP_Portal" target="_blank" rel="noopener noreferrer">   <Button
+            <a href="https://t.me/CorethiumAIMetaverse_Portal" target="_blank" rel="noopener noreferrer">   <Button
               id="watch-trailer"
               title="Telegram"
               leftIcon={<TiLocationArrow />}

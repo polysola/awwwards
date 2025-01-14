@@ -73,7 +73,7 @@ const NavBar = () => {
           <div className="flex items-center gap-7">
             <img src="/img/logo.png" alt="logo" className="w-10" />
 
-            <a href="https://firstledger.net/token/ra7MhaTNiXAC99qAY4GZetjTzPnEtn9XkJ/4554524100000000000000000000000000000000" target="_blank" rel="noopener noreferrer">  <Button
+            <a href="https://firstledger.net/" target="_blank" rel="noopener noreferrer">  <Button
               id="product-button"
               title="Buy Now"
               rightIcon={<TiLocationArrow />}
